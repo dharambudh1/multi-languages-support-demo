@@ -1,16 +1,14 @@
-# multi_language_support_demo
+# Multi Languages Support Demo
 
-A new Flutter project.
+## Description:
+This is a demonstration project designed to highlight the functionality of multi-language selection.
 
-## Getting Started
+  - The project offers three primary languages:
+    - English Language: Selecting this will switch the app language to English & it will apply the whole app.
+    - Arabic Language: Selecting this will switch the app language to Arabic & it will apply the whole app.
+    - Hindi Language: Selecting this will switch the app language to Hindi & it will apply the whole app.
 
-This project is a starting point for a Flutter application.
+Important: This sample project doesn't rely on any  3rd party packages.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/9frwcKKm/imgonline-com-ua-twotoone-OSxz-DEAYBb4-XBl-OS.png "img")
